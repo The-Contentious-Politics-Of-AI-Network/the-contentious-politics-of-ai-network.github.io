@@ -1,2 +1,2 @@
-# the-contentious-politics-of-ai-network.github.io
+# The Contentious Politics Of AI
 Our network website.
