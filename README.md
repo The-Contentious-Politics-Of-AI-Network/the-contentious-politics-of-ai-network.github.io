@@ -1,15 +1,15 @@
 # The Contentious Politics Of AI Network
-Short intro. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bibendum non lacus quis, rhoncus fringilla est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id bibendum odio, eget euismod tortor. Duis ultricies nisl nisi, sed viverra neque faucibus id. 
+**Short intro.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bibendum non lacus quis, rhoncus fringilla est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id bibendum odio, eget euismod tortor. Duis ultricies nisl nisi, sed viverra neque faucibus id. 
 
 ## About Our Network
 
-Who, what, why. Describe our mission. Introduce the problem. Mention the workshop.
+**Who, what, why. Describe our mission. Introduce the problem. Mention the workshop.**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bibendum non lacus quis, rhoncus fringilla est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id bibendum odio, eget euismod tortor. Duis ultricies nisl nisi, sed viverra neque faucibus id. Nullam dapibus diam velit, sit amet dictum mi bibendum quis. Vestibulum blandit elementum orci, vitae pretium magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam gravida enim eu viverra pretium.
 
 ## Research
 
-Talk about our research aims and objectives. Link to David and Iran's papers. Explain some of the research that has already been done. Forthcoming special issue etc.
+**Talk about our research aims and objectives. Link to David and Iran's papers. Explain some of the research that has already been done. Forthcoming special issue etc.**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bibendum non lacus quis, rhoncus fringilla est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id bibendum odio, eget euismod tortor. Duis ultricies nisl nisi, sed viverra neque faucibus id. Nullam dapibus diam velit, sit amet dictum mi bibendum quis. Vestibulum blandit elementum orci, vitae pretium magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam gravida enim eu viverra pretium.
 
