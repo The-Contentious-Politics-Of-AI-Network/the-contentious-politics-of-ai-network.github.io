@@ -1,5 +1,5 @@
 # The Contentious Politics Of AI Network
-Our network website.
+Short intro. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bibendum non lacus quis, rhoncus fringilla est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id bibendum odio, eget euismod tortor. Duis ultricies nisl nisi, sed viverra neque faucibus id. 
 
 ## About Our Network
 
