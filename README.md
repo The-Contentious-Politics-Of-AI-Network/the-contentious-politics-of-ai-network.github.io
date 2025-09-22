@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bib
 
 ## Events and Activities
 
-We are organising a monthly speaker series. Dates and speakers will be added to the list below and posted to our mailing list as we arrange them. We are hoping that our workshop will happen annually, check back here for details. Any other events or opportunitues will also be added here and announced in our mailing list.
+We are organising a series of talks that will happen monthly. Dates and speakers will be added to the list below and posted to our mailing list as we arrange them. We are hoping that our workshop will happen annually, check back here for details. Any other events or opportunitues will also be added here and announced in our mailing list.
 
 ### Monthly Talks
 + **November 15th 2025** - person -  title of talk
