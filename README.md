@@ -36,7 +36,10 @@ We have a mailing list to keep up with announcements, events, and research oppor
 We've compiled a list of books and papers to read more on why and how we should contest AI.
 
 ### Books
++ Bonini, T., & Treré, E. (2024). Algorithms of resistance: The everyday fight against platform power. Mit Press.
++ Hao, K. (2025). Empire of AI: Inside the reckless race for total domination. Random House.
 + McQuillan, D. (2022). Resisting AI: An anti-fascist approach to artificial intelligence. Policy Press.
++ Merchant, B. (2023). Blood in the machine: The origins of the rebellion against big tech. Hachette UK.
 
 ### Papers
 + Mansouri, M. I., & Bailey, D. J. (2025). How to be ‘anti-AI’in the 21st century: overcoming the inevitability narrative. Global Political Economy, 1-10.
