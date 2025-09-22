@@ -7,7 +7,9 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bibendum non lacus quis, rhoncus fringilla est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id bibendum odio, eget euismod tortor. Duis ultricies nisl nisi, sed viverra neque faucibus id. Nullam dapibus diam velit, sit amet dictum mi bibendum quis. Vestibulum blandit elementum orci, vitae pretium magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam gravida enim eu viverra pretium.
 
-<img src="docs/assets/images/IranPresenting.jpeg" alt="Iran Mansouri presenting at our summer workshop" width="500" height="600">
+<p align="center">
+  <img src="docs/assets/images/IranPresenting.jpeg" alt="Iran Mansouri presenting at our summer workshop" width="500" height="600">
+</p>
 
 ## Research
 
