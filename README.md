@@ -20,9 +20,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bib
 
 ## Events and Activities
 
-There will be a speaker series. Perhaps the workshop will be annual, we are working on it.
+We are organising a monthly speaker series. Dates and speakers will be added to the list below and posted to our mailing list as we arrange them. We are hoping that our workshop will happen annually, check back here for details. Any other events or opportunitues will also be added here and announced in our mailing list.
 
-+ **November 15th 2025** - person -  title of talk 
+### Monthly Talks
++ **November 15th 2025** - person -  title of talk
+
+### Other Events and Opportunities
+
+Nothing currently upcoming.
 
 ## Join The Network
 
