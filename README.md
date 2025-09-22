@@ -33,5 +33,10 @@ We have a mailing list to keep up with announcements, events, and research oppor
 [Sign Up Here](https://forms.office.com/e/t30XZjtpif)
 
 ## Reading List
+We've compiled a list of books and papers to read more on why and how we should contest AI.
 
-Curated list of resources for interetsed people.
+### Books
++ McQuillan, D. (2022). Resisting AI: An anti-fascist approach to artificial intelligence. Policy Press.
+
+### Papers
++ Mansouri, M. I., & Bailey, D. J. (2025). How to be ‘anti-AI’in the 21st century: overcoming the inevitability narrative. Global Political Economy, 1-10.
