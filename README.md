@@ -26,6 +26,8 @@ There will be a speaker series. Perhaps the workshop will be annual, we are work
 
 ## Join The Network
 
+Whether you are an academic, a policy researcher, a trade unionist, or an activist, if you have an interest in pushing back against AI then we want you to get involved. 
+
 We have a mailing list to keep up with announcements, events, and research opportunities.
 
 [Sign Up Here](https://forms.office.com/e/t30XZjtpif)
