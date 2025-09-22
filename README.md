@@ -38,7 +38,7 @@ We have a mailing list to keep up with announcements, events, and research oppor
 [Sign Up Here](https://forms.office.com/e/t30XZjtpif)
 
 ## Reading List
-We've compiled a list of books and papers to read more on why and how we should contest AI.
+We've compiled a list of books and papers on why and how we should contest AI. Let us know if you come accross any that you think we should include.
 
 ### Books
 + Bonini, T., & Treré, E. (2024). Algorithms of resistance: The everyday fight against platform power. Mit Press.
@@ -48,3 +48,7 @@ We've compiled a list of books and papers to read more on why and how we should 
 
 ### Papers
 + Mansouri, M. I., & Bailey, D. J. (2025). How to be ‘anti-AI’in the 21st century: overcoming the inevitability narrative. Global Political Economy, 1-10.
+
+### Contact
+
+If you have any questions or want to get involved, email Dr Gary Smith at g.smith.12@bham.ac.uk
