@@ -35,7 +35,7 @@ Whether you are an academic, a policy researcher, a trade unionist, or an activi
 
 We have a mailing list to keep up with announcements, events, and research opportunities.
 
-[Sign Up Here](https://forms.office.com/e/t30XZjtpif)
+[Sign Up Here](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A0=CONTENTIOUS-AI-POLITICS)
 
 ## Reading List
 We've compiled a list of books and papers on why and how we should contest AI. Let us know if you come accross any that you think we should include.
