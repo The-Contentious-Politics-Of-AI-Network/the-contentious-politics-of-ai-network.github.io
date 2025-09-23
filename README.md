@@ -51,4 +51,4 @@ We've compiled a list of books and papers on why and how we should contest AI. L
 
 ### Contact
 
-If you have any questions or want to get involved, email Dr Gary Smith at g.smith.12@bham.ac.uk
+If you have any questions or want to get involved, email Dr Gary Smith at contestingainetwork@gmail.com
