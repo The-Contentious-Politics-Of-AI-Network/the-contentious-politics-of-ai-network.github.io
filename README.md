@@ -6,7 +6,7 @@ We aim to research, study, and make visible (and possible) ways that AI is, and 
 
 **Who, what, why. Describe our mission. Introduce the problem. Mention the workshop.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bibendum non lacus quis, rhoncus fringilla est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id bibendum odio, eget euismod tortor. Duis ultricies nisl nisi, sed viverra neque faucibus id. Nullam dapibus diam velit, sit amet dictum mi bibendum quis. Vestibulum blandit elementum orci, vitae pretium magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam gravida enim eu viverra pretium.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tellus velit, bibendum non lacus quis, rhoncus fringilla est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id bibendum odio, eget euismod tortor. Duis ultricies nisl nisi, sed viverra neque faucibus id. Nullam dapibus diam velit, sit amet dictum mi bibendum quis. Vestibulum blandit elementum orci, vitae pretium magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam gravida enim eu viverra pretium. Hello
 
 <p align="center">
   <img src="docs/assets/images/IranPresenting.jpeg" alt="Iran Mansouri presenting at our summer workshop" width="500" height="667">
