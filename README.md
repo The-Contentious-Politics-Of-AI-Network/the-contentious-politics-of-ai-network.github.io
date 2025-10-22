@@ -1,5 +1,5 @@
 # The Contentious Politics Of AI
-We are a network for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
+Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
 
 This includes institutional challenges, through party politics and public policy, but also non-institutionalised routes, such as online campaigns, protests and demonstrations, industrial disputes and strikes, or more direct efforts to create alternatives to AI. 
 
