@@ -30,8 +30,8 @@ We are organising a series of monthly talks focusing on the themes of the networ
 
 ### First public talk - 19 November 2025 - AI is on the march. Is the AI safety movement ready?
 
-November 19th 2025, 3pm
-Cathy Rogers, [Social Change Lab](https://www.socialchangelab.org/)
+**Cathy Rogers, [Social Change Lab](https://www.socialchangelab.org/)
+November 19th 2025, 3pm**
 
 This is the first of a series of monthly talk hosted by the new Contentious Politics of AI network. The talk is on zoom and you can register for the talk [here](https://bham-ac-uk.zoom.us/meeting/register/Zp54HtA7RD22ZDQfMyhcnQ#/registration). The new report maps the emerging AI safety movement and finds critical gaps in grassroots mobilisation and public voice. The report is available [here](https://www.socialchangelab.org/ai-safety-movement) 
 More details on Social Change Lab [here](https://www.socialchangelab.org/)
