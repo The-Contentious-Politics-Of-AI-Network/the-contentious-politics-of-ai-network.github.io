@@ -1,5 +1,9 @@
-# The Contentious Politics Of AI Network
-We aim to research, study, and make visible (and possible) ways that AI is, and can be, challenged. This might include institutional challenges, through party politics and public policy, but also non-institutionalised routes, such as online campaigns, protests and demonstrations, industrial disputes and strikes, or more direct efforts to create alternatives to AI. This network is a place to share details of ongoing forms of contention regarding the introduction of AI, including updates of ongoing episodes of AI-related social contestation, talks, research initiatives, organisation of actions, and the general facilitation of discussions regarding ways in which the introduction of AI is being challenged.
+# The Contentious Politics Of AI network
+We aim to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
+
+This includes institutional challenges, through party politics and public policy, but also non-institutionalised routes, such as online campaigns, protests and demonstrations, industrial disputes and strikes, or more direct efforts to create alternatives to AI. 
+
+The network is a place to share details of ongoing forms of AI-related contestation, including campaigns, events, talks, research initiatives, organising actions, and generally facilitating discussions regarding how the introduction of AI is being subjected to challenges and public opposition of different types.
 
 
 ## About Our Network
@@ -27,7 +31,6 @@ We have a mailing list to keep up with announcements, events, and research oppor
 
 We are organising a series of monthly talks focusing on the themes of the network. Dates and speakers will be added to the list below and posted to our mailing list as we arrange them. We are hoping that our workshop will happen annually, check back here for details. Any other events or opportunitues will also be added here and announced in our mailing list.
 
-### Monthly Talks
 + **November 19th 2025, 3pm** - Cathy Rogers, [Social Change Lab](https://www.socialchangelab.org/), AI is on the march. Is the AI safety movement ready?
 + This is the first of a series of monthly talk hosted by the new Contentious Politics of AI network. The talk is on zoom and you can register for the talk [here](https://bham-ac-uk.zoom.us/meeting/register/Zp54HtA7RD22ZDQfMyhcnQ#/registration).
 
@@ -41,7 +44,7 @@ Watch this space - we will update accordingly.
 
 
 ## Suggested Readings
-Some initial readings that we think are useful regarding why and how we might contest AI (we'll keep this updated).
+Some initial readings that we think are useful on why and how we might contest AI (we'll keep this updated).
 
 + Bonini, T., & Treré, E. (2024). [Algorithms of resistance](https://direct.mit.edu/books/oa-monograph/5721/Algorithms-of-ResistanceThe-Everyday-Fight-against): The everyday fight against platform power. Mit Press.
 + Hao, K. ([2025](https://www.penguin.co.uk/books/460331/empire-of-ai-by-hao-karen/9780241678923)). Empire of AI: Inside the reckless race for total domination. Random House.
