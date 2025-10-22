@@ -3,9 +3,7 @@ Our network offers a space for those who want to research, study, and make visib
 
 It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
 
-<p align="center">
-  <img src="docs/assets/images/contesting.jpeg" alt="Iran Mansouri presenting at our summer workshop" width="500" height="667">
-</p>
+
 
 ## Aims of the Network
 
