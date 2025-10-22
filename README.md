@@ -3,6 +3,10 @@ Our network offers a space for those who want to research, study, and make visib
 
 It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
 
+<p align="center">
+  <img src="docs/assets/images/contesting.jpeg" alt="Iran Mansouri presenting at our summer workshop" width="500" height="667">
+</p>
+
 ## Aims of the Network
 
 At our [founding conference](https://www.birmingham.ac.uk/schools/government/events/2025/the-contentious-politics-of-ai-and-its-alternatives) in July 2025 we launched the network in order to bring together those interested in different ways in which AI is being, and can be, contested. In the spirit of our recent proposal for [ways to be 'anti-AI'](https://bristoluniversitypressdigital.com/view/journals/gpe/4/2/article-p185.xml), we sought to open up a discussion for those concerned about the harms that AI might pose - be it ecological harm, heightened exploitation, racialised extractivism, rule by oligarchs, and/or the further degradation of what remains of our "democracies". 
