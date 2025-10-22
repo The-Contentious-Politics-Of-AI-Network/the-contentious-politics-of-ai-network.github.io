@@ -56,4 +56,4 @@ Some initial readings that we think are useful on why and how we might contest A
 
 ### Contact
 
-If you have any questions or want to get involved, email us at contestingainetwork@gmail.com
+If you have any questions or want to get involved, email us at contestingAInetwork@gmail.com
