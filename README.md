@@ -55,4 +55,6 @@ Some initial readings that we think are useful on why and how we might contest A
 
 ### Contact
 
+The Contentious Politics Of AI network is coordinated by [David J. Bailey](https://www.birmingham.ac.uk/staff/profiles/gov/bailey-david) (University of Birmingham), [Masoumeh (Iran) Mansouri](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/masoumeh-mansouri) (University of Birmingham), and [Gary Smith](https://www.linkedin.com/in/dr-gary-smith-mbcs/) 
+
 If you have any questions or want to get involved, email us at contestingAInetwork@gmail.com
