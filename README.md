@@ -7,7 +7,7 @@ It is open to all -  academics, policy researchers, and activists interested in 
 
 At our [founding conference](https://www.birmingham.ac.uk/schools/government/events/2025/the-contentious-politics-of-ai-and-its-alternatives) in July 2025 we launched the network in order to bring together those interested in different ways in which AI is being, and can be, contested. In the spirit of our recent proposal for [ways to be 'anti-AI'](https://bristoluniversitypressdigital.com/view/journals/gpe/4/2/article-p185.xml), we sought to open up a discussion for those concerned about the harms that AI might pose - be it ecological harm, heightened exploitation, racialised extractivism, rule by oligarchs, and/or the further degradation of what remains of our "democracies". 
 
-As we noted at the time, we see widespread concern about how AI might bring about these harms - **but** **we need to think more about how AI might contested**. We need to reject the 'inevitability narrative' - that there is no alternative to AI as we are coming to know it.
+As we noted at the time, we see widespread concern about how AI might bring about these harms - **but** **we need to think more about how AI might be contested**. We need to reject the 'inevitability narrative' - that there is no alternative to AI as we are coming to know it.
 
 <p align="center">
   <img src="docs/assets/images/IranPresenting.jpeg" alt="Iran Mansouri presenting at our summer workshop" width="500" height="667">
