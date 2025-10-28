@@ -55,7 +55,7 @@ Some initial readings that we think are useful on why and how we might contest A
 
 ## Affiliated critical AI networks
 
-We are also working together with a range of critical AI networks:
+We are also working together with the following critical AI networks:
 + [Critical Studies in AI and Digitalisation Cluster (CSAID)](https://www.essex.ac.uk/centres-and-institutes/commons-organising-values-equalities-and-resilience/csaid), University of Essex
 + [The Critical AI Centre (CrAIC)](https://cdf.exeter.ac.uk/communications/research/centres/craic/), University of Exeter
 
