@@ -53,6 +53,13 @@ Some initial readings that we think are useful on why and how we might contest A
 + Moore, P. V., Ernst, E., Donoghue, R., and Bloom, P. ([2025](https://bristoluniversitypressdigital.com/view/journals/gpe/4/2/article-p195.xml)). Artificial Intelligence Policy Observatory for the World of Work (AIPOWW) Symposium Editorial. Global Political Economy 4, 2, 195-200
 
 
+## Affiliated critical AI networks
+
+We are also working together with a range of critical AI networks:
++ [Critical Studies in AI and Digitalisation Cluster (CSAID)](https://www.essex.ac.uk/centres-and-institutes/commons-organising-values-equalities-and-resilience/csaid), University of Essex
++ [The Critical AI Centre (CrAIC)](https://cdf.exeter.ac.uk/communications/research/centres/craic/), University of Exeter
+
+
 ### Contact
 
 The Contentious Politics Of AI network is coordinated by [David J. Bailey](https://www.birmingham.ac.uk/staff/profiles/gov/bailey-david) (University of Birmingham), [Masoumeh (Iran) Mansouri](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/masoumeh-mansouri) (University of Birmingham), and [Gary Smith](https://www.linkedin.com/in/dr-gary-smith-mbcs/) 
