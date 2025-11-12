@@ -1,3 +1,12 @@
+
+<nav>
+          <ul id="nav">
+            <li class="current"><a href="index.html">Home</a></li>
+            <li><a href="monethly-update.html">Monthly contestation updates</a></li>
+          </ul>
+</nav>
+
+
 # The Contentious Politics Of AI
 Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
 
