@@ -1,10 +1,10 @@
 
-<nav>
+<!--nav>
           <ul id="nav">
             <li class="current"><a href="index.html">Home</a></li>
             <li><a href="monethly-update.html">Monthly contestation updates</a></li>
           </ul>
-</nav>
+</nav-->
 
 
 # The Contentious Politics Of AI
