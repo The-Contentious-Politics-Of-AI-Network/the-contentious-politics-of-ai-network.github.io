@@ -1,0 +1,16 @@
+<nav style="margin: 1rem 0;">
+  {% for item in site.nav %}
+    <a href="{{ item.url | relative_url }}"
+       style="
+         padding: 0.4rem 0.8rem;
+         margin-right: 0.6rem;
+         background: #15995720;
+         border-radius: 6px;
+         text-decoration: none;
+         color: #3088c2;
+         font-weight: 600;
+       ">
+      {{ item.title }}
+    </a>
+  {% endfor %}
+</nav>
