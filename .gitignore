@@ -1,0 +1,7 @@
+.bundle 
+Gemfile
+Gemfile.lock
+
+.vscode/
+
+.idea/
