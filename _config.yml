@@ -4,3 +4,14 @@ plugins:
 - jekyll-remote-theme
 title: The Contentious Politics Of AI
 description: We are a network of academics, policy researchers, and activists interested in ways that AI is contested.
+
+
+
+
+nav:
+  - title: Home
+    url: /
+  - title: News
+    url: /news/
+  # - title: anypage   
+  #   url: /anypage/    # a .md file named anypage.md must exist in the root directory

@@ -1,0 +1,14 @@
+.bundle/
+Gemfile
+Gemfile.lock
+
+.vscode/
+
+.idea/
+vendor/
+*.log
+*.tmp
+
+
+
+_site/
