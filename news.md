@@ -1,66 +1,23 @@
+---
+layout: default
+title: News Page
+permalink: /news/
+---
 
 {% include nav.html %}
 
-<nav 
-  style="margin-bottom: 1.5rem;">
-  <a href="{{ '/' | relative_url }}">Home</a> |
-  <a href="{{ '/hello/' | relative_url }}">Hello World</a>
-</nav>
 
-
+<!-- 
 # The Contentious Politics Of AI
 Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
 
-It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
+It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up. -->
 
-## Aims of the Network
-
-At our [founding conference](https://www.birmingham.ac.uk/schools/government/events/2025/the-contentious-politics-of-ai-and-its-alternatives) in July 2025 we launched the network in order to bring together those interested in different ways in which AI is being, and can be, contested. In the spirit of our recent proposal for [ways to be 'anti-AI'](https://bristoluniversitypressdigital.com/view/journals/gpe/4/2/article-p185.xml), we sought to open up a discussion for those concerned about the harms that AI might pose - be it ecological harm, heightened exploitation, racialised extractivism, rule by oligarchs, and/or the further degradation of what remains of our "democracies". 
-
-As we noted at the time, we see widespread concern about how AI might bring about these harms - **but** **we need to think more about how AI might be contested**. We need to reject the 'inevitability narrative' - that there is no alternative to AI as we are coming to know it.
-
-<p align="center">
-  <img src="docs/assets/images/IranPresenting.jpeg" alt="Iran Mansouri presenting at our summer workshop" width="500" height="667">
-</p>
-
-The aim of our network is to continue these goals - offering a space in which those interested in the contestation of AI can join and share insights, knowledge, updates, and find ways to collaborate around a broad interest in the contestation of AI. This includes campaigns, events, talks, research initiatives, organising actions, and generally facilitating discussions regarding how the introduction of AI is being subjected to challenges and public opposition of different types.
-
-## Join us!
-
-Whether you are an academic, a policy researcher, a trade unionist, or an activist, if you have an interest in pushing back against AI then we want you to get involved. 
-
-We have a mailing list to keep up with announcements, events, and research opportunities, and where will also provide a regular newsletter updating on recent episodes, campaigns and events focused on the contestation of AI.
-
-[Sign Up Here](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A0=CONTENTIOUS-AI-POLITICS)
-
-
-## Monthly Talks
-
-We are organising a series of monthly talks focusing on the themes of the network. Dates and speakers will be added to the list below and posted to our mailing list as we arrange them. We are hoping that our workshop will happen annually, check back here for details. Any other events or opportunitues will also be added here and announced in our mailing list.
-
-### First public talk - 19 November 2025 - AI is on the march. Is the AI safety movement ready?
-
-**Cathy Rogers, [Social Change Lab](https://www.socialchangelab.org/)
-November 19th 2025, 3pm**
-
-This is the first of a series of monthly talk hosted by the new Contentious Politics of AI network. The talk is on zoom and you can register for the talk [here](https://bham-ac-uk.zoom.us/meeting/register/Zp54HtA7RD22ZDQfMyhcnQ#/registration). The new report maps the emerging AI safety movement and finds critical gaps in grassroots mobilisation and public voice. The report is available [here](https://www.socialchangelab.org/ai-safety-movement) 
-More details on Social Change Lab [here](https://www.socialchangelab.org/)
-More details on the Contentious Politics of AI network are [here](https://the-contentious-politics-of-ai-network.github.io/) 
-
-### Other Events and Opportunities
-
-Watch this space - we will update accordingly.
-
-## Monthly contestation updates
-
-[Full Monthly Report]({{ '/news' | relative_url }})
-
+# Monthly contestation updates
 
 Since our launch we have begun to produce a running update in newsletter form of the different types of contestation as they happen and are reported. [Sign-up to our email list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CONTENTIOUS-AI-POLITICS) to receive these once they are produced.
 
-
 **October 2025**
-
 
 At the micro-level we continue to see an ongoing series of everyday forms of 'misbehaviour' or subversion regarding the use of AI. A recent survey of company employees found that [over 30% were actively sabotaging their company's AI strategy](https://urldefense.com/v3/__https://www.cio.com/article/4022953/31-of-employees-are-sabotaging-your-gen-ai-strategy.html__;!!CF15FET90Tp8!Dzz4DY7fBf9sPwFhJhRD-iGU0xk1hRwxvLyTRK37Vp0G3ubDhPKklH3GW-EW1z5lCP95py811hD93tCCJFauT8porePN7C-06aKa1w$), with the most likely reason given that the introduction of AI amounted to an explicit attempt to subvert the attempt to replace employee's jobs. Reflecting this trend, a recent McKinsey [report](https://urldefense.com/v3/__https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage__;!!CF15FET90Tp8!Dzz4DY7fBf9sPwFhJhRD-iGU0xk1hRwxvLyTRK37Vp0G3ubDhPKklH3GW-EW1z5lCP95py811hD93tCCJFauT8porePN7C9CgqtcGw$) that while 80% of companies are introducing gen AI in some form, at the same time around 80% also report no improvement on their bottom line as a result of introducing AI; the report identifies a key reason as "implicit resistance from business teams and middle management due to fear of disruption, uncertainty around job impact, and lack of familiarity with the technology.". Likewise, the NYT [reported](https://urldefense.com/v3/__https://www.nytimes.com/2025/10/07/business/ai-chatbot-prompts-resumes.html__;!!CF15FET90Tp8!Dzz4DY7fBf9sPwFhJhRD-iGU0xk1hRwxvLyTRK37Vp0G3ubDhPKklH3GW-EW1z5lCP95py811hD93tCCJFauT8porePN7C_Q4RkqEA$) on attempts by job applicants to trick chatbot recruiters for job applications.  The Information [reports](https://urldefense.com/v3/__https://archive.is/ggXs4*selection-1275.0-1275.237__;Iw!!CF15FET90Tp8!Dzz4DY7fBf9sPwFhJhRD-iGU0xk1hRwxvLyTRK37Vp0G3ubDhPKklH3GW-EW1z5lCP95py811hD93tCCJFauT8porePN7C9rDRTprg$) on how coders are refusing to use AI tools to code, with two software engineers at Mixus, San Francisco, staging a rebellion by [refusing](https://urldefense.com/v3/__https://archive.is/ggXs4*selection-1275.0-1275.237__;Iw!!CF15FET90Tp8!Dzz4DY7fBf9sPwFhJhRD-iGU0xk1hRwxvLyTRK37Vp0G3ubDhPKklH3GW-EW1z5lCP95py811hD93tCCJFauT8porePN7C9rDRTprg$) to follow instructions to rely on AI coding-assistance software. Higher up the hierarchy within AI companies, the FT [reported](https://urldefense.com/v3/__https://www.ft.com/content/21ec5a5f-0e9a-49b9-b64d-9ebc88e70aa7__;!!CF15FET90Tp8!Dzz4DY7fBf9sPwFhJhRD-iGU0xk1hRwxvLyTRK37Vp0G3ubDhPKklH3GW-EW1z5lCP95py811hD93tCCJFauT8porePN7C8MqUuHTA$) an exodus from disgruntled senior staff from Musk's xAI.  Also as a result of worker opposition, Microsoft [announced](https://urldefense.com/v3/__https://www.nytimes.com/2025/09/25/technology/microsoft-israel-defense-ministry.html__;!!CF15FET90Tp8!Dzz4DY7fBf9sPwFhJhRD-iGU0xk1hRwxvLyTRK37Vp0G3ubDhPKklH3GW-EW1z5lCP95py811hD93tCCJFauT8porePN7C9k5T0BKw$) it would disable some services to Israel’s Defense Ministry, after a company review concluded that Israel was using Microsoft’s cloud storage services to hold surveillance data on Palestinians - this came after disgruntled employees entered company president, Brad Smith’s office, to protest, hang banners and occupy rooms in the company HQ.
 
@@ -70,22 +27,6 @@ The wider impact of AI-related infrastructure is also being contested. Efforts t
 
 Finally, in terms of legal challenges, Anthropic agreed a much-reported $1.5billion copyright [settlement](https://urldefense.com/v3/__https://www.reuters.com/sustainability/boards-policy-regulation/us-judge-approves-15-billion-anthropic-copyright-settlement-with-authors-2025-09-25/__;!!CF15FET90Tp8!Dzz4DY7fBf9sPwFhJhRD-iGU0xk1hRwxvLyTRK37Vp0G3ubDhPKklH3GW-EW1z5lCP95py811hD93tCCJFauT8porePN7C-vL3gzWw$) to resolve the copyright class action brought against it.
 
-## Suggested Readings
-Some initial readings that we think are useful on why and how we might contest AI (we'll keep this updated).
-
-+ Bonini, T., & Treré, E. (2024). [Algorithms of resistance](https://direct.mit.edu/books/oa-monograph/5721/Algorithms-of-ResistanceThe-Everyday-Fight-against): The everyday fight against platform power. Mit Press.
-+ Hao, K. ([2025](https://www.penguin.co.uk/books/460331/empire-of-ai-by-hao-karen/9780241678923)). Empire of AI: Inside the reckless race for total domination. Random House.
-+ McQuillan, D. ([2022](https://bristoluniversitypress.co.uk/resisting-ai)). Resisting AI: An anti-fascist approach to artificial intelligence. Policy Press.
-+ Mansouri, M. I., & Bailey, D. J. ([2025](https://bristoluniversitypressdigital.com/view/journals/gpe/4/2/article-p185.xml)). How to be ‘anti-AI’in the 21st century: overcoming the inevitability narrative. Global Political Economy, 1-10.
-+ Merchant, B. ([2023](https://www.hachette.co.uk/titles/brian-merchant/blood-in-the-machine/9780316487740/)). Blood in the machine: The origins of the rebellion against big tech. Hachette UK.
-+ Moore, P. V., Ernst, E., Donoghue, R., and Bloom, P. ([2025](https://bristoluniversitypressdigital.com/view/journals/gpe/4/2/article-p195.xml)). Artificial Intelligence Policy Observatory for the World of Work (AIPOWW) Symposium Editorial. Global Political Economy 4, 2, 195-200
-
-
-## Affiliated critical AI networks
-
-We are also working together with the following critical AI networks:
-+ [Critical Studies in AI and Digitalisation Cluster (CSAID)](https://www.essex.ac.uk/centres-and-institutes/commons-organising-values-equalities-and-resilience/csaid), University of Essex
-+ [The Critical AI Centre (CrAIC)](https://cdf.exeter.ac.uk/communications/research/centres/craic/), University of Exeter
 
 
 ### Contact
