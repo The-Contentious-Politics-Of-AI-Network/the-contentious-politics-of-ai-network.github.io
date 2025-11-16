@@ -6,6 +6,12 @@
           </ul>
 </nav-->
 
+<nav 
+  style="margin-bottom: 1.5rem;">
+  <a href="{{ '/' | relative_url }}">Home</a> |
+  <a href="{{ '/hello/' | relative_url }}">Hello World</a>
+</nav>
+
 
 # The Contentious Politics Of AI
 Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
