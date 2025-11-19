@@ -41,6 +41,8 @@ This is the first of a series of monthly talk hosted by the new Contentious Poli
 More details on Social Change Lab [here](https://www.socialchangelab.org/)
 More details on the Contentious Politics of AI network are [here](https://the-contentious-politics-of-ai-network.github.io/) 
 
+{% include youtube.html id="SzZAVydB4d0" %}
+
 ### Other Events and Opportunities
 
 Watch this space - we will update accordingly.
