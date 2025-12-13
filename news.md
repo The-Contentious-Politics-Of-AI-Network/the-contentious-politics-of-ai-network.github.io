@@ -50,10 +50,6 @@ The European Conference on AI (ECAI) which took place in Bologna in October 2025
 For more summaries of contemporary anti-AI campaigns, see this nice article in Vox listing some of the most impressive recent achievements for anti-AI campaigns. And another similarly good overview of some recent campaign successes in this article in MROnline. 
 
 
-The struggle in, against and beyond AI continues!
-https://contestingai.uk/
-
-
 
 
 **October 2025**
