@@ -5,7 +5,7 @@ plugins:
 title: The Contentious Politics Of AI
 description: We are a network of academics, policy researchers, and activists interested in ways that AI is contested.
 header:
-   image_fullwidth  : "contesting-AI.png"
+   image_fullwidth  : "docs/assets/images/contesting-AI.png"
 
 
 
