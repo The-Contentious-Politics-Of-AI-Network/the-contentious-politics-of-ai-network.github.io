@@ -13,7 +13,7 @@ Our network offers a space for those who want to research, study, and make visib
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
     <a href="{{ site.baseurl }}/aim-of-network.html">
-      <img src="docs/assets/images/IranPresenting.jpeg" alt="Aims of the Network" style="width:100%;">
+      <img src="docs/assets/images/contesting-AI.png" alt="Aims of the Network" style="width:100%;">
     </a>
     <p><strong>Aims of the Network</strong><br>At our founding conference in July 2025 we launched the network in order<br>
       <a href="{{ site.baseurl }}/aim-of-network.html">Read more</a>
@@ -22,7 +22,7 @@ Our network offers a space for those who want to research, study, and make visib
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
     <a href="{{ site.baseurl }}/monthly-talks.html">
-      <img src="docs/assets/images/IranPresenting.jpg" alt="Monthly Talks" style="width:100%;">
+      <img src="docs/assets/images/IranPresenting.jpeg" alt="Monthly Talks" style="width:100%;">
     </a>
     <p><strong>Monthly Talks</strong><br>Our monthly talks are typically held on the third Wednesday of each month.<br>
       <a href="{{ site.baseurl }}/monthly-talks.html">Read more</a>
@@ -31,7 +31,7 @@ Our network offers a space for those who want to research, study, and make visib
 
 <div style="flex: 0 0 calc(33.333% - 1.5rem);">
     <a href="{{ site.baseurl }}/news.html">
-      <img src="docs/assets/images/US-guild-strike.JPG" alt="Contestation updates" style="width:100%;">
+      <img src="docs/assets/images/US-guild-strike.jpg" alt="Contestation updates" style="width:100%;">
     </a>
     <p><strong>Contestation updates</strong><br> We have a running update in newsletter form of the different types of contestation as they happen and are reported.<br>
      <a href="{{ site.baseurl }}/news.html">Read more</a>
