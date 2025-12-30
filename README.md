@@ -1,5 +1,3 @@
-![My project banner](/assets/img/IranPresenting.jpeg)
-
 {% include nav.html %}
 
 # The Contentious Politics Of AI
