@@ -43,20 +43,6 @@ Our network offers a space for those who want to research, study, and make visib
 </div>
 
 
-
-
-## Aims of the Network
-
-At our [founding conference](https://www.birmingham.ac.uk/schools/government/events/2025/the-contentious-politics-of-ai-and-its-alternatives) in July 2025 we launched the network in order to bring together those interested in different ways in which AI is being, and can be, contested. In the spirit of our recent proposal for [ways to be 'anti-AI'](https://bristoluniversitypressdigital.com/view/journals/gpe/4/2/article-p185.xml), we sought to open up a discussion for those concerned about the harms that AI might pose - be it ecological harm, heightened exploitation, racialised extractivism, rule by oligarchs, and/or the further degradation of what remains of our "democracies". 
-
-As we noted at the time, we see widespread concern about how AI might bring about these harms - **but** **we need to think more about how AI might be contested**. We need to reject the 'inevitability narrative' - that there is no alternative to AI as we are coming to know it.
-
-<p align="center">
-  <img src="docs/assets/images/IranPresenting.jpeg" alt="Iran Mansouri presenting at our summer workshop" width="500" height="667">
-</p>
-
-The aim of our network is to continue these goals - offering a space in which those interested in the contestation of AI can join and share insights, knowledge, updates, and find ways to collaborate around a broad interest in the contestation of AI. This includes campaigns, events, talks, research initiatives, organising actions, and generally facilitating discussions regarding how the introduction of AI is being subjected to challenges and public opposition of different types.
-
 ## Join us!
 
 Whether you are an academic, a policy researcher, a trade unionist, or an activist, if you have an interest in pushing back against AI then we want you to get involved. 
@@ -65,14 +51,6 @@ We have a mailing list to keep up with announcements, events, and research oppor
 
 [Sign Up Here](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A0=CONTENTIOUS-AI-POLITICS)
 
-
-
-## Monthly contestation updates
-
-[Monthly Updates]({{ '/news' | relative_url }})
-
-
-Since our launch we have begun to produce a running update in newsletter form of the different types of contestation as they happen and are reported. [Sign-up to our email list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CONTENTIOUS-AI-POLITICS) to receive these once they are produced. See the [link](https://the-contentious-politics-of-ai-network.github.io/news/) above to read previous reports.
 
 ## Suggested Readings
 Some initial readings that we think are useful on why and how we might contest AI (we'll keep this updated).
