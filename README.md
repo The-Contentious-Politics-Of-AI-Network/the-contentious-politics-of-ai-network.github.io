@@ -3,9 +3,7 @@
 
 
 # The Contentious Politics Of AI
-Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
-
-It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
+Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
 
@@ -20,50 +18,21 @@ It is open to all -  academics, policy researchers, and activists interested in 
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
     <a href="news.html">
-      <img src="docs/assets/images/IranPresenting.jpeg" alt="Aims of the Network" style="width:100%;">
+      <img src="docs/assets/images/IranPresenting.jpeg" alt="Monthly Talks" style="width:100%;">
     </a>
-    <p><strong>Aims of the Network</strong><br>At our founding conference in July 2025 we launched the network in order<br>
+    <p><strong>Monthly Talks</strong><br>At our founding conference in July 2025 we launched the network in order<br>
       <a href="{{ site.baseurl }}/news.html">More →</a>
     </p>
   </div>
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
     <a href="/docs/ex3.html">
-      <img src="/assets/img/ex3.png" alt="Example 3" style="width:100%;">
+      <img src="/assets/img/ex3.png" alt="Contestation updates" style="width:100%;">
     </a>
-    <p><strong>Monthly Updates</strong><br>Short explanation.<br>
+    <p><strong>Contestation updates</strong><br>Short explanation.<br></p>
      <div markdown="1">
     [Read more]({{ '/news' | relative_url }})
      </div>
-    </p>
-  </div>
-
-  <!-- second row -->
-  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
-    <a href="/docs/ex4.html">
-      <img src="/assets/img/ex4.png" alt="Example 4" style="width:100%;">
-    </a>
-    <p><strong>Example 4</strong><br>Short explanation.<br>
-      <a href="/docs/ex4.html">More →</a>
-    </p>
-  </div>
-
-  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
-    <a href="/docs/ex5.html">
-      <img src="/assets/img/ex5.png" alt="Example 5" style="width:100%;">
-    </a>
-    <p><strong>Example 5</strong><br>Short explanation.<br>
-      <a href="/docs/ex5.html">More →</a>
-    </p>
-  </div>
-
-  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
-    <a href="/docs/ex6.html">
-      <img src="/assets/img/ex6.png" alt="Example 6" style="width:100%;">
-    </a>
-    <p><strong>Example 6</strong><br>Short explanation.<br>
-      <a href="/docs/ex6.html">More →</a>
-    </p>
   </div>
 
 </div>
