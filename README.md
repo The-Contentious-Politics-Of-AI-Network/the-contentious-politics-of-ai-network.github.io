@@ -37,7 +37,6 @@ Our network offers a space for those who want to research, study, and make visib
     </a>
     <p><strong>Monthly Talks</strong><br>At our founding conference in July 2025 we launched the network in order<br>
      <a href="{{ site.baseurl }}/news.html">Read more</a>
-
     </p>
   </div>
 
