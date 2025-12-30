@@ -31,7 +31,7 @@ Our network offers a space for those who want to research, study, and make visib
 
 <div style="flex: 0 0 calc(33.333% - 1.5rem);">
     <a href="{{ site.baseurl }}/news.html">
-      <img src="docs/assets/images/US-guild-strike.WEBP" alt="Contestation updates" style="width:100%;">
+      <img src="docs/assets/images/US-guild-strike.JPG" alt="Contestation updates" style="width:100%;">
     </a>
     <p><strong>Contestation updates</strong><br> We have a running update in newsletter form of the different types of contestation as they happen and are reported.<br>
      <a href="{{ site.baseurl }}/news.html">Read more</a>
