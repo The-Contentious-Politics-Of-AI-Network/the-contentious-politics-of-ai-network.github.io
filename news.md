@@ -1,11 +1,6 @@
 ---
 ---
 
----
-layout: default
-title: News Page
-permalink: /news/
----
 
 {% include nav.html %}
 
