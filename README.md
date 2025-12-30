@@ -1,37 +1,73 @@
 
 {% include nav.html %}
 
-<div style="display: flex; gap: 1.5rem; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 250px;">
-    <a href="/docs/example1.html">
-      <img src="/assets/img/example1.png" alt="Example 1" style="width:100%;">
+# The Contentious Politics Of AI
+Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
+
+It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
+
+  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
+    <a href="/docs/ex1.html">
+      <img src="docs/assets/images/IranPresenting.jpeg" alt="Aims of the Network" style="width:100%;">
     </a>
-    <p>
-      <strong>Example 1</strong><br>
-      Short explanation of the image.<br>
-      <a href="/docs/example1.html">More details →</a>
+    <p><strong>Example 1</strong><br>At our [founding conference](https://www.birmingham.ac.uk/schools/government/events/2025/the-contentious-politics-of-ai-and-its-alternatives) in July 2025 we launched the network in order to bring together those interested in different ways in which AI is being, and can be, contested. In the spirit of our recent proposal for [ways to be 'anti-AI'](https://bristoluniversitypressdigital.com/view/journals/gpe/4/2/article-p185.xml), we sought to open up a discussion for those concerned about the harms that AI might pose - be it ecological harm, heightened exploitation, racialised extractivism, rule by oligarchs, and/or the further degradation of what remains of our "democracies" .<br>
+      <a href="/docs/monthly-update.html">More →</a>
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 250px;">
-    <a href="/docs/example2.html">
-      <img src="/assets/img/example2.png" alt="Example 2" style="width:100%;">
+  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
+    <a href="/docs/ex2.html">
+      <img src="docs/assets/images/IranPresenting.jpeg" alt="Monthly contestation updates" style="width:100%;">
     </a>
-    <p>
-      <strong>Example 2</strong><br>
-      Short explanation goes here.<br>
-      <a href="/docs/example2.html">More details →</a>
+    <p><strong>Example 2</strong><br>Short explanation.<br>
+      <a href="/docs/ex2.html">More →</a>
+    </p>
+  </div>
+
+  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
+    <a href="/docs/ex3.html">
+      <img src="/assets/img/ex3.png" alt="Example 3" style="width:100%;">
+    </a>
+    <p><strong>Example 3</strong><br>Short explanation.<br>
+      <a href="/docs/ex3.html">More →</a>
+    </p>
+  </div>
+
+  <!-- second row -->
+  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
+    <a href="/docs/ex4.html">
+      <img src="/assets/img/ex4.png" alt="Example 4" style="width:100%;">
+    </a>
+    <p><strong>Example 4</strong><br>Short explanation.<br>
+      <a href="/docs/ex4.html">More →</a>
+    </p>
+  </div>
+
+  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
+    <a href="/docs/ex5.html">
+      <img src="/assets/img/ex5.png" alt="Example 5" style="width:100%;">
+    </a>
+    <p><strong>Example 5</strong><br>Short explanation.<br>
+      <a href="/docs/ex5.html">More →</a>
+    </p>
+  </div>
+
+  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
+    <a href="/docs/ex6.html">
+      <img src="/assets/img/ex6.png" alt="Example 6" style="width:100%;">
+    </a>
+    <p><strong>Example 6</strong><br>Short explanation.<br>
+      <a href="/docs/ex6.html">More →</a>
     </p>
   </div>
 
 </div>
 
 
-# The Contentious Politics Of AI test
-Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
 
-It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
 
 ## Aims of the Network
 
