@@ -1,6 +1,13 @@
-
-
+---
+layout: default
+---
 {% include nav.html %}
+
+<img src="docs/assets/images/header.jpg"
+     alt="Header image"
+     style="width:100%; max-height:300px; object-fit:cover;">
+
+
 
 # The Contentious Politics Of AI
 Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
