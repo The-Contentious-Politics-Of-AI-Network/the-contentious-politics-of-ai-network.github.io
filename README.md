@@ -14,7 +14,7 @@ It is open to all -  academics, policy researchers, and activists interested in 
       <img src="docs/assets/images/IranPresenting.jpeg" alt="Aims of the Network" style="width:100%;">
     </a>
     <p><strong>Aims of the Network</strong><br>At our founding conference in July 2025 we launched the network in order<br>
-      <a href="{{ site.baseurl }}/news.html">More →</a>
+      <a href="/news.html">More →</a>
     </p>
   </div>
 
@@ -31,8 +31,10 @@ It is open to all -  academics, policy researchers, and activists interested in 
     <a href="/docs/ex3.html">
       <img src="/assets/img/ex3.png" alt="Example 3" style="width:100%;">
     </a>
-    <p><strong>Example 3</strong><br>Short explanation.<br>
-      <a href="/docs/ex3.html">More →</a>
+    <p><strong>Monthly Updates</strong><br>Short explanation.<br>
+     <div markdown="1">
+    [Read more]({{ '/news' | relative_url }})
+     </div>
     </p>
   </div>
 
