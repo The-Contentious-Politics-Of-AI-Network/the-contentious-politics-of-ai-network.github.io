@@ -1,3 +1,6 @@
+layout: default
+---
+
 <img src="{{ site.baseurl }}/docs/assets/images/header.jpg"
      alt="Header image"
      style="width:100%; max-height:300px; object-fit:cover;">
