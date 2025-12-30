@@ -25,11 +25,6 @@ Our network offers a space for those who want to research, study, and make visib
 
 
 
-| Aims of the Network | Monthly Talks | Contestation updates |
-|---|---|---|
-| ![](docs/assets/images/IranPresenting.jpeg) | ![](docs/assets/images/IranPresenting.jpeg) | ![](docs/assets/images/IranPresenting.jpeg) |
-
-
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
@@ -55,7 +50,7 @@ Our network offers a space for those who want to research, study, and make visib
       <img src="docs/assets/images/IranPresenting.jpeg" alt="Monthly Talks" style="width:100%;">
     </a>
     <p><strong>Monthly Talks</strong><br>At our founding conference in July 2025 we launched the network in order<br>
-      <a href="{{ site.baseurl }}/news.html">More →</a>
+      <a href="news.html">More →</a>
     </p>
   </div>
 
