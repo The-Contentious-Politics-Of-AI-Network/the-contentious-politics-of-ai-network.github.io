@@ -1,10 +1,4 @@
----
-layout: default
----
 
-<img src="docs/assets/images/header.jpg"
-     alt="Header image"
-     style="width:100%; max-height:300px; object-fit:cover;">
 
 {% include nav.html %}
 
