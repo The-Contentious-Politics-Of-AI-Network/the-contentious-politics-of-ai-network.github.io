@@ -1,6 +1,32 @@
 
 {% include nav.html %}
 
+<div style="display: flex; gap: 1.5rem; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 250px;">
+    <a href="/docs/example1.html">
+      <img src="/assets/img/example1.png" alt="Example 1" style="width:100%;">
+    </a>
+    <p>
+      <strong>Example 1</strong><br>
+      Short explanation of the image.<br>
+      <a href="/docs/example1.html">More details →</a>
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <a href="/docs/example2.html">
+      <img src="/assets/img/example2.png" alt="Example 2" style="width:100%;">
+    </a>
+    <p>
+      <strong>Example 2</strong><br>
+      Short explanation goes here.<br>
+      <a href="/docs/example2.html">More details →</a>
+    </p>
+  </div>
+
+</div>
+
 
 # The Contentious Politics Of AI test
 Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. 
