@@ -10,20 +10,20 @@ It is open to all -  academics, policy researchers, and activists interested in 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
-    <a href="/docs/ex1.html">
+    <a href="news.html">
       <img src="docs/assets/images/IranPresenting.jpeg" alt="Aims of the Network" style="width:100%;">
     </a>
-    <p><strong>Example 1</strong><br>At our [founding conference](https://www.birmingham.ac.uk/schools/government/events/2025/the-contentious-politics-of-ai-and-its-alternatives) in July 2025 we launched the network in order to bring together those interested in different ways in which AI is being, and can be, contested. In the spirit of our recent proposal for [ways to be 'anti-AI'](https://bristoluniversitypressdigital.com/view/journals/gpe/4/2/article-p185.xml), we sought to open up a discussion for those concerned about the harms that AI might pose - be it ecological harm, heightened exploitation, racialised extractivism, rule by oligarchs, and/or the further degradation of what remains of our "democracies" .<br>
-      <a href="/docs/monthly-update.html">More →</a>
+    <p><strong>Aims of the Network</strong><br>At our founding conference in July 2025 we launched the network in order<br>
+      <a href="{{ site.baseurl }}/news.html">More →</a>
     </p>
   </div>
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
-    <a href="/docs/ex2.html">
-      <img src="docs/assets/images/IranPresenting.jpeg" alt="Monthly contestation updates" style="width:100%;">
+    <a href="news.html">
+      <img src="docs/assets/images/IranPresenting.jpeg" alt="Aims of the Network" style="width:100%;">
     </a>
-    <p><strong>Example 2</strong><br>Short explanation.<br>
-      <a href="/docs/ex2.html">More →</a>
+    <p><strong>Aims of the Network</strong><br>At our founding conference in July 2025 we launched the network in order<br>
+      <a href="{{ site.baseurl }}/news.html">More →</a>
     </p>
   </div>
 
