@@ -5,7 +5,25 @@
 # The Contentious Politics Of AI
 Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
 
-| | | |
+<div markdown="1" class="gallery">
+
+[![Example 1](docs/assets/images/IranPresenting.jpeg)](news.md)
+**Example 1**  
+Short text
+
+[![Example 2](docs/assets/images/IranPresenting.jpeg)](news.md)
+**Example 2**  
+Short text
+
+[![Example 3](docs/assets/images/IranPresenting.jpeg)](news.md)
+**Example 3**  
+Short text
+
+</div>
+
+
+
+| Aims of the Network | Monthly Talks | Contestation updates |
 |---|---|---|
 | ![](docs/assets/images/IranPresenting.jpeg) | ![](docs/assets/images/IranPresenting.jpeg) | ![](docs/assets/images/IranPresenting.jpeg) |
 
