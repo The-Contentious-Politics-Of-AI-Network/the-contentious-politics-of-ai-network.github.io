@@ -44,18 +44,17 @@ Short text
       <img src="docs/assets/images/IranPresenting.jpeg" alt="Monthly Talks" style="width:100%;">
     </a>
     <p><strong>Monthly Talks</strong><br>At our founding conference in July 2025 we launched the network in order<br>
-      <a href="{{ site.baseurl }}/news.html">More →</a>
+      <a href="news.html">More →</a>
     </p>
   </div>
 
-  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
-    <a href="/docs/ex3.html">
-      <img src="/assets/img/ex3.png" alt="Contestation updates" style="width:100%;">
+<div style="flex: 0 0 calc(33.333% - 1.5rem);">
+    <a href="news.html">
+      <img src="docs/assets/images/IranPresenting.jpeg" alt="Monthly Talks" style="width:100%;">
     </a>
-    <p><strong>Contestation updates</strong><br>Short explanation.<br></p>
-     <div markdown="1">
-    [Read more]({{ '/news' | relative_url }})
-     </div>
+    <p><strong>Monthly Talks</strong><br>At our founding conference in July 2025 we launched the network in order<br>
+      <a href="{{ site.baseurl }}/news.html">More →</a>
+    </p>
   </div>
 
 </div>
