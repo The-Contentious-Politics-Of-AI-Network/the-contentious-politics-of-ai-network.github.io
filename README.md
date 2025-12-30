@@ -9,33 +9,31 @@
 Our network offers a space for those who want to research, study, and make visible (and possible) ways that AI is, and can be, challenged. It is open to all -  academics, policy researchers, and activists interested in ways that AI is contested - see details below on how to sign up.
 
 
-
-
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
-    <a href="/news.html">
+    <a href="{{ site.baseurl }}/aim-of-network.html">
       <img src="docs/assets/images/IranPresenting.jpeg" alt="Aims of the Network" style="width:100%;">
     </a>
     <p><strong>Aims of the Network</strong><br>At our founding conference in July 2025 we launched the network in order<br>
-      <a href="/news.html">More →</a>
+      <a href="{{ site.baseurl }}/aim-of-network.html">Read more</a>
     </p>
   </div>
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
-    <a href="/news.html">
+    <a href="{{ site.baseurl }}/monthly-talks.html">
       <img src="docs/assets/images/IranPresenting.jpeg" alt="Monthly Talks" style="width:100%;">
     </a>
-    <p><strong>Monthly Talks</strong><br>At our founding conference in July 2025 we launched the network in order<br>
-      <a href="/news.html">More →</a>
+    <p><strong>Monthly Talks</strong><br>Our monthly talks are typically held on the third Wednesday of each month.<br>
+      <a href="{{ site.baseurl }}/monthly-talks.html">Read more</a>
     </p>
   </div>
 
 <div style="flex: 0 0 calc(33.333% - 1.5rem);">
     <a href="{{ site.baseurl }}/news.html">
-      <img src="docs/assets/images/IranPresenting.jpeg" alt="Monthly Talks" style="width:100%;">
+      <img src="docs/assets/images/IranPresenting.jpeg" alt="Contestation updates" style="width:100%;">
     </a>
-    <p><strong>Monthly Talks</strong><br>At our founding conference in July 2025 we launched the network in order<br>
+    <p><strong>Contestation updates</strong><br> We have a running update in newsletter form of the different types of contestation as they happen and are reported.<br>
      <a href="{{ site.baseurl }}/news.html">Read more</a>
     </p>
   </div>
