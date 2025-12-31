@@ -1,3 +1,13 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.gallery > * {
+  flex: 0 0 33.333%;
+}
