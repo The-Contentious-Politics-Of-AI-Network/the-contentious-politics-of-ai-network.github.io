@@ -8,12 +8,10 @@ description: We are a network of academics, policy researchers, and activists in
 nav:
   - title: Home
     url: /
-  - title: News
-    url: /news/
-    side: left
-    dropdown:
-    - title: "News"
-      url: "/news/"
+  #- title: News
+  #  url: /news/
+  # side: left
+    
 
   # - title: anypage   
   #   url: /anypage/    # a .md file named anypage.md must exist in the root directory
