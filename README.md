@@ -20,7 +20,7 @@ Our network offers a space for those who want to research, study, and make visib
     <a href="{{ site.baseurl }}/monthly-talks.html">
       <img src="docs/assets/images/IranPresenting-wb.jpg" alt="Monthly Talks" style="width:100%;">
     </a>
-    <p><strong>Monthly Talks</strong><br>Our monthly talks are typically held on the third Wednesday of each month.<br>
+    <p><strong>Monthly Talks</strong><br>Our monthly talks are typically held on the third Wednesday of each month <br>
       <a href="{{ site.baseurl }}/monthly-talks.html">Read more</a>
     </p>
   </div>
@@ -29,7 +29,7 @@ Our network offers a space for those who want to research, study, and make visib
     <a href="{{ site.baseurl }}/news.html">
       <img src="docs/assets/images/US-guild-strike-wb.jpg" alt="Contestation updates" style="width:100%;">
     </a>
-    <p><strong>Contestation updates</strong><br> We have a running update in newsletter form of the different types of contestation as they happen and are reported.<br>
+    <p><strong>Contestation updates</strong><br> Newsletter reporting different types of contestation as they happen <br>
      <a href="{{ site.baseurl }}/news.html">Read more</a>
     </p>
   </div>
