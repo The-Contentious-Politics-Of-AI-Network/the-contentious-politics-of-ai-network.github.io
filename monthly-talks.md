@@ -31,6 +31,14 @@ Favel IA employs participatory action research (PAR) as its main methodological 
 
 The name Favel IA is a reference to the favelas themselves as forms of intelligence and to inteligência artificial, artificial intelligence in Portuguese. IÁ is also a common ending to many samba refrains (la iá la iá), evoking the idea that favela residents must “dance to the music” of AI systems designed by powerful private companies. While digital media platforms constrain agency, participants also identified instances of mundane resistance (Madianou, 2025), using generative AI to craft texts that signal socioeconomic mobility, employing AI tools to decode complex legislation and explain it for favela residents and/or using chatbots for emotional support. The latter, especially the use of AI as a therapist in contexts of grief caused by racist police violence, prompted critical debates about the myth of “empathetic AI.” These reflections culminated in a collective call to favelise AI, that is, to invert the centre-periphery relationship so that the lived experiences and voices off favela residents become central rather than marginal in AI debates and governance.
 
+**22 April, 3pm (GMT)
+Degrees of Freedom: On Robotics and Social Justice**
+Speaker: [Tom Williams](https://people.mines.edu/twilliams/)
+
+Register here: [https://bham-ac-uk.zoom.us/meeting/register/uIq55rs1Qha1U7PhqOd-8Q](https://bham-ac-uk.zoom.us/meeting/register/uIq55rs1Qha1U7PhqOd-8Q)
+
+In Degrees of Freedom, Tom Williams explores critical questions at the intersection of robotics and social justice. He considers the ways in which roboticists design their robots’ appearance, how robots think and act, how robots perceive people, and the domains into which robots are deployed. The book highlights not only the ways roboticists tend to reinforce white patriarchal power structures but also how roboticists might instead subvert those power structures by applying theories and methods from a diverse range of fields. Drawing on computer science; history and politics; law, criminology, and sociology; feminist, ethnic, and Black studies; literary and media studies; and social, moral, and cognitive psychology, the book connects questions of robot design with larger abolitionist movements by presenting a vision for a more socially just future of robotics.
+
 ### Previous talks - 19 November 2025 - AI is on the march. Is the AI safety movement ready?
 
 **Cathy Rogers, [Social Change Lab](https://www.socialchangelab.org/)
