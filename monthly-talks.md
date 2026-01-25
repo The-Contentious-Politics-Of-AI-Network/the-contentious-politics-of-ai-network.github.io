@@ -6,18 +6,6 @@
 
 ## Upcoming Monthly Talks
 
-**21 January 2026, 3pm (GMT)
-The AI Matrix: Profits, Politics, and the Struggle Over Our Tech Future**
-Speakers: [Regine Paul](https://www4.uib.no/en/find-employees/Regine.Paul) and [Vali Stan](https://www.uva.nl/en/profile/s/t/v.a.stan2/v.a.stan.html)
-
-This talk will introduce the new book, The AI Matrix: Profits, Power, Politics - available open access ([https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597](https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597)).
-
-Register here: [https://bham-ac-uk.zoom.us/meeting/register/c7ukzey4SVOoQ1MgnsC7lA](https://bham-ac-uk.zoom.us/meeting/register/c7ukzey4SVOoQ1MgnsC7lA)
-
-AI is often presented in extremes, either as a revolutionary technology boosting prosperity for everyone, or as a juggernaut that threatens jobs, democracy, or even human life. This talk cuts through those narratives by asking a simpler question: who really benefits from AI, and who has the power to shape how it is made and used? Drawing on a critical political economy perspective, we argue that today’s AI boom is not simply about clever machines taking over, but about profit imperatives and political choices. AI technologies are developed and deployed within pre-existing economic structures, largely reinforcing inequalities between industries, workers, and countries rather than transforming them away.
-
-Acknowledgement of this distinct socio-economic embedding of a hyped technology informs our search for forms of resistance. Contrary to the techno-determinist idea that the spread of AI is inevitable, and based on our recent co-authored book “[The AI Matrix](https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597)”, we present growing efforts to push back against the harmful and extractive uses of such technologies. These include workers challenging algorithmic surveillance and automation efforts, activists exposing the socio-ecological costs hidden in AI value chains, whistleblowers publicising biased systems and opaque business decisions, but also technicians experimenting with alternative, more public-interest-driven and less extractive forms of AI. Together, these emerging critical engagements with mainstream big tech show that AI futures remain contested and ultimately open. Whether current tech developments deepen global inequalities or support fairer and more democratic societies therefore depends less on the technology itself than on the collective decisions we make about the role of AI in our economies and societies.
-
 
 **18 February, 3pm (GMT)
 Favel IA: AI, Participatory Action Research (PAR), and the Question of Empathy**
@@ -40,6 +28,19 @@ Register here: [https://bham-ac-uk.zoom.us/meeting/register/uIq55rs1Qha1U7PhqOd-
 In Degrees of Freedom, Tom Williams explores critical questions at the intersection of robotics and social justice. He considers the ways in which roboticists design their robots’ appearance, how robots think and act, how robots perceive people, and the domains into which robots are deployed. The book highlights not only the ways roboticists tend to reinforce white patriarchal power structures but also how roboticists might instead subvert those power structures by applying theories and methods from a diverse range of fields. Drawing on computer science; history and politics; law, criminology, and sociology; feminist, ethnic, and Black studies; literary and media studies; and social, moral, and cognitive psychology, the book connects questions of robot design with larger abolitionist movements by presenting a vision for a more socially just future of robotics.
 
 ### Previous talks - 19 November 2025 - AI is on the march. Is the AI safety movement ready?
+
+**21 January 2026, 3pm (GMT)
+The AI Matrix: Profits, Politics, and the Struggle Over Our Tech Future**
+Speakers: [Regine Paul](https://www4.uib.no/en/find-employees/Regine.Paul) and [Vali Stan](https://www.uva.nl/en/profile/s/t/v.a.stan2/v.a.stan.html)
+
+This talk introduces the new book, The AI Matrix: Profits, Power, Politics - available open access ([https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597](https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597)).
+
+https://bham-ac-uk.zoom.us/rec/share/1nNBd32YmXQkOQ5llgrKpVFJGl55tmRmlzPY1NmBXsnUfwz7RfqSDNzbCp4Tdb_U.8R_BO0RKAgGTgO6z?startTime=1769007829000
+Passcode: G!MwUg19
+
+AI is often presented in extremes, either as a revolutionary technology boosting prosperity for everyone, or as a juggernaut that threatens jobs, democracy, or even human life. This talk cuts through those narratives by asking a simpler question: who really benefits from AI, and who has the power to shape how it is made and used? Drawing on a critical political economy perspective, we argue that today’s AI boom is not simply about clever machines taking over, but about profit imperatives and political choices. AI technologies are developed and deployed within pre-existing economic structures, largely reinforcing inequalities between industries, workers, and countries rather than transforming them away.
+
+Acknowledgement of this distinct socio-economic embedding of a hyped technology informs our search for forms of resistance. Contrary to the techno-determinist idea that the spread of AI is inevitable, and based on our recent co-authored book “[The AI Matrix](https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597)”, we present growing efforts to push back against the harmful and extractive uses of such technologies. These include workers challenging algorithmic surveillance and automation efforts, activists exposing the socio-ecological costs hidden in AI value chains, whistleblowers publicising biased systems and opaque business decisions, but also technicians experimenting with alternative, more public-interest-driven and less extractive forms of AI. Together, these emerging critical engagements with mainstream big tech show that AI futures remain contested and ultimately open. Whether current tech developments deepen global inequalities or support fairer and more democratic societies therefore depends less on the technology itself than on the collective decisions we make about the role of AI in our economies and societies.
 
 **Cathy Rogers, [Social Change Lab](https://www.socialchangelab.org/)
 November 19th 2025, 3pm**
