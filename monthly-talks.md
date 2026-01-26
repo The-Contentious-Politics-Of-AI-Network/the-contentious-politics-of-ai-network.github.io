@@ -36,6 +36,7 @@ Speakers: [Regine Paul](https://www4.uib.no/en/find-employees/Regine.Paul) and 
 This talk introduces the new book, The AI Matrix: Profits, Power, Politics - available open access ([https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597](https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597)).
 
 {% include youtube.html id="u_uPmtRhy24" %}
+For the speaker+slides recording, see: [here](https://bham-ac-uk.zoom.us/rec/share/xieOsBlCrUOF_EwJTP3fU9fqifhF7_Tl_KYgD2hmGHeQSLSjj1oN-EU6B5lTYqb9.PPekBx8463GkZakT?startTime=1769007829000) Passcode: G!MwUg19
 
 AI is often presented in extremes, either as a revolutionary technology boosting prosperity for everyone, or as a juggernaut that threatens jobs, democracy, or even human life. This talk cuts through those narratives by asking a simpler question: who really benefits from AI, and who has the power to shape how it is made and used? Drawing on a critical political economy perspective, we argue that today’s AI boom is not simply about clever machines taking over, but about profit imperatives and political choices. AI technologies are developed and deployed within pre-existing economic structures, largely reinforcing inequalities between industries, workers, and countries rather than transforming them away.
 
