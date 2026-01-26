@@ -35,8 +35,7 @@ Speakers: [Regine Paul](https://www4.uib.no/en/find-employees/Regine.Paul) and 
 
 This talk introduces the new book, The AI Matrix: Profits, Power, Politics - available open access ([https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597](https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597)).
 
-https://bham-ac-uk.zoom.us/rec/share/1nNBd32YmXQkOQ5llgrKpVFJGl55tmRmlzPY1NmBXsnUfwz7RfqSDNzbCp4Tdb_U.8R_BO0RKAgGTgO6z?startTime=1769007829000
-Passcode: G!MwUg19
+{% include youtube.html id="u_uPmtRhy24" %}
 
 AI is often presented in extremes, either as a revolutionary technology boosting prosperity for everyone, or as a juggernaut that threatens jobs, democracy, or even human life. This talk cuts through those narratives by asking a simpler question: who really benefits from AI, and who has the power to shape how it is made and used? Drawing on a critical political economy perspective, we argue that today’s AI boom is not simply about clever machines taking over, but about profit imperatives and political choices. AI technologies are developed and deployed within pre-existing economic structures, largely reinforcing inequalities between industries, workers, and countries rather than transforming them away.
 
@@ -45,7 +44,7 @@ Acknowledgement of this distinct socio-economic embedding of a hyped technology 
 **Cathy Rogers, [Social Change Lab](https://www.socialchangelab.org/)
 November 19th 2025, 3pm**
 
-This is the first of a series of monthly talk hosted by the new Contentious Politics of AI network. The talk is on zoom and you can register for the talk [here](https://bham-ac-uk.zoom.us/meeting/register/Zp54HtA7RD22ZDQfMyhcnQ#/registration). The new report maps the emerging AI safety movement and finds critical gaps in grassroots mobilisation and public voice. The report is available [here](https://www.socialchangelab.org/ai-safety-movement) 
+This was the first of a series of monthly talk hosted by the new Contentious Politics of AI network. The new report maps the emerging AI safety movement and finds critical gaps in grassroots mobilisation and public voice. The report is available [here](https://www.socialchangelab.org/ai-safety-movement) 
 More details on Social Change Lab [here](https://www.socialchangelab.org/)
 More details on the Contentious Politics of AI network are [here](https://the-contentious-politics-of-ai-network.github.io/) 
 
