@@ -19,6 +19,15 @@ Favel IA employs participatory action research (PAR) as its main methodological 
 
 The name Favel IA is a reference to the favelas themselves as forms of intelligence and to inteligência artificial, artificial intelligence in Portuguese. IÁ is also a common ending to many samba refrains (la iá la iá), evoking the idea that favela residents must “dance to the music” of AI systems designed by powerful private companies. While digital media platforms constrain agency, participants also identified instances of mundane resistance (Madianou, 2025), using generative AI to craft texts that signal socioeconomic mobility, employing AI tools to decode complex legislation and explain it for favela residents and/or using chatbots for emotional support. The latter, especially the use of AI as a therapist in contexts of grief caused by racist police violence, prompted critical debates about the myth of “empathetic AI.” These reflections culminated in a collective call to favelise AI, that is, to invert the centre-periphery relationship so that the lived experiences and voices off favela residents become central rather than marginal in AI debates and governance.
 
+**25 March, 3pm (GMT)
+Interpretive contests over the future of work amid AI advances: Examples from the Turkish translation industry**
+Speaker: [Azer Kilic](https://www.bilgi.edu.tr/en/academic/staff/azer-kilic/)
+
+Register here: [https://bham-ac-uk.zoom.us/meeting/register/aTi-a165TtyCVFxepHebJg](https://bham-ac-uk.zoom.us/meeting/register/aTi-a165TtyCVFxepHebJg)
+
+This talk examines interpretive contests over the future of work amid advances in artificial intelligence (AI), focusing on professional translators’ imaginaries in the context of machine translation. It argues that individual concerns and expectations surrounding future AI-driven automation reflect competing interpretations of contemporary political-economic and institutional settings. The talk draws on interviews with forty translators from Turkey, a country with the highest perception of technological risks within the OECD, and identifies three major approaches in narratives about the future of work: fears about personal, occupational, and societal impacts of workplace automation underlining the profit-oriented logic of capitalism; hopes regarding personal professional futures emphasizing meritocracy in a competitive market setting; and desires for alternative societal futures including visions of different work regimes. Together, these diverse imaginaries highlight ongoing interpretive contests over the meaning of technological change and the future of work under capitalism.
+
+
 **22 April, 3pm (GMT)
 Degrees of Freedom: On Robotics and Social Justice**
 Speaker: [Tom Williams](https://people.mines.edu/twilliams/)
