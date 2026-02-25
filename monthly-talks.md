@@ -7,18 +7,6 @@
 ## Upcoming Monthly Talks
 
 
-**18 February, 3pm (GMT)
-Favel IA: AI, Participatory Action Research (PAR), and the Question of Empathy**
-Speaker: [Andrea Medrado](https://experts.exeter.ac.uk/43090-andrea-medrado) 
-
-Register here: [https://bham-ac-uk.zoom.us/meeting/register/x6yVfu34Qq2YcEzhgU1azQ](https://bham-ac-uk.zoom.us/meeting/register/x6yVfu34Qq2YcEzhgU1azQ)
-
-This talk presents preliminary findings from the project Favel IA, which was co-designed with the Papo Reto Institute (IPR), a favela media activist and human rights organisation based in Rio de Janeiro. The project analyses a core question developed jointly with IPR: How does the favela use AI as opposed to how AI uses the favela in extractive ways? Drawing from critical and decolonial data and AI studies (Valente and Grohmann, 20024; Goodlad, 2023; Ricaurte, 2019), Favel IA interrogates the politics of empathy as a form of solidarity. It is also attentive to the gendered, raced, classed, and transnational geopolitical dimensions that shape who is permitted to perform empathy and who is positioned as its beneficiary. These dynamics contrast sharply with the everyday invisible forms of political empathy exercised by favela communities, which are rarely recognised or valued.
-
-Favel IA employs participatory action research (PAR) as its main methodological approach, inspired by Latin American scholars such as Orlando Fals Borda (1987) and Paulo Freire (2002). The project involves three main groups: postgraduate students, favela media activists, and community leaders. The research team engaged participants in five consecutive days of workshops. We asked them to document their daily encounters with AI, to carry out empathy exercises and to reflect on critical questions about AI and data from a favela standpoint. Collectively, we also analysed existing and emerging AI regulation in Brazil and elsewhere and co-devised a conceptual note for policymakers, articulating the types of AI favela residents desire and the alternative futures that they envision.
-
-The name Favel IA is a reference to the favelas themselves as forms of intelligence and to inteligência artificial, artificial intelligence in Portuguese. IÁ is also a common ending to many samba refrains (la iá la iá), evoking the idea that favela residents must “dance to the music” of AI systems designed by powerful private companies. While digital media platforms constrain agency, participants also identified instances of mundane resistance (Madianou, 2025), using generative AI to craft texts that signal socioeconomic mobility, employing AI tools to decode complex legislation and explain it for favela residents and/or using chatbots for emotional support. The latter, especially the use of AI as a therapist in contexts of grief caused by racist police violence, prompted critical debates about the myth of “empathetic AI.” These reflections culminated in a collective call to favelise AI, that is, to invert the centre-periphery relationship so that the lived experiences and voices off favela residents become central rather than marginal in AI debates and governance.
-
 **25 March, 3pm (GMT)
 Interpretive contests over the future of work amid AI advances: Examples from the Turkish translation industry**
 Speaker: [Azer Kilic](https://www.bilgi.edu.tr/en/academic/staff/azer-kilic/)
@@ -37,6 +25,20 @@ Register here: [https://bham-ac-uk.zoom.us/meeting/register/uIq55rs1Qha1U7PhqOd-
 In Degrees of Freedom, Tom Williams explores critical questions at the intersection of robotics and social justice. He considers the ways in which roboticists design their robots’ appearance, how robots think and act, how robots perceive people, and the domains into which robots are deployed. The book highlights not only the ways roboticists tend to reinforce white patriarchal power structures but also how roboticists might instead subvert those power structures by applying theories and methods from a diverse range of fields. Drawing on computer science; history and politics; law, criminology, and sociology; feminist, ethnic, and Black studies; literary and media studies; and social, moral, and cognitive psychology, the book connects questions of robot design with larger abolitionist movements by presenting a vision for a more socially just future of robotics.
 
 ### Previous talks - 19 November 2025 - AI is on the march. Is the AI safety movement ready?
+
+**18 February, 3pm (GMT)
+Favel IA: AI, Participatory Action Research (PAR), and the Question of Empathy**
+Speaker: [Andrea Medrado](https://experts.exeter.ac.uk/43090-andrea-medrado) 
+
+{% include youtube.html id="AjrqdQQfbSE" %}
+_For the speaker+slides recording, see_:[here](https://bham-ac-uk.zoom.us/rec/share/756sq7zpEm3BJoYwgSCsAaeeqRcTbsxEmk6NtZBP8S1y4mMnVh4qLlvJUGU_FKRx.VdpgaXbLk26biLp0?startTime=1771427118000
+Passcode: 9A.g&aPs)
+
+This talk presents preliminary findings from the project Favel IA, which was co-designed with the Papo Reto Institute (IPR), a favela media activist and human rights organisation based in Rio de Janeiro. The project analyses a core question developed jointly with IPR: How does the favela use AI as opposed to how AI uses the favela in extractive ways? Drawing from critical and decolonial data and AI studies (Valente and Grohmann, 20024; Goodlad, 2023; Ricaurte, 2019), Favel IA interrogates the politics of empathy as a form of solidarity. It is also attentive to the gendered, raced, classed, and transnational geopolitical dimensions that shape who is permitted to perform empathy and who is positioned as its beneficiary. These dynamics contrast sharply with the everyday invisible forms of political empathy exercised by favela communities, which are rarely recognised or valued.
+
+Favel IA employs participatory action research (PAR) as its main methodological approach, inspired by Latin American scholars such as Orlando Fals Borda (1987) and Paulo Freire (2002). The project involves three main groups: postgraduate students, favela media activists, and community leaders. The research team engaged participants in five consecutive days of workshops. We asked them to document their daily encounters with AI, to carry out empathy exercises and to reflect on critical questions about AI and data from a favela standpoint. Collectively, we also analysed existing and emerging AI regulation in Brazil and elsewhere and co-devised a conceptual note for policymakers, articulating the types of AI favela residents desire and the alternative futures that they envision.
+
+The name Favel IA is a reference to the favelas themselves as forms of intelligence and to inteligência artificial, artificial intelligence in Portuguese. IÁ is also a common ending to many samba refrains (la iá la iá), evoking the idea that favela residents must “dance to the music” of AI systems designed by powerful private companies. While digital media platforms constrain agency, participants also identified instances of mundane resistance (Madianou, 2025), using generative AI to craft texts that signal socioeconomic mobility, employing AI tools to decode complex legislation and explain it for favela residents and/or using chatbots for emotional support. The latter, especially the use of AI as a therapist in contexts of grief caused by racist police violence, prompted critical debates about the myth of “empathetic AI.” These reflections culminated in a collective call to favelise AI, that is, to invert the centre-periphery relationship so that the lived experiences and voices off favela residents become central rather than marginal in AI debates and governance.
 
 **21 January 2026, 3pm (GMT)
 The AI Matrix: Profits, Politics, and the Struggle Over Our Tech Future**
