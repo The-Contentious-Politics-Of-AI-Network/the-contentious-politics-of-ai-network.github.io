@@ -31,7 +31,7 @@ Favel IA: AI, Participatory Action Research (PAR), and the Question of Empathy**
 Speaker: [Andrea Medrado](https://experts.exeter.ac.uk/43090-andrea-medrado) 
 
 {% include youtube.html id="AjrqdQQfbSE" %}
-_For the speaker+slides recording, see_:[here](https://bham-ac-uk.zoom.us/rec/share/756sq7zpEm3BJoYwgSCsAaeeqRcTbsxEmk6NtZBP8S1y4mMnVh4qLlvJUGU_FKRx.VdpgaXbLk26biLp0?startTime=1771427118000
+_For the speaker+slides recording, see_:[here](https://bham-ac-uk.zoom.us/rec/share/756sq7zpEm3BJoYwgSCsAaeeqRcTbsxEmk6NtZBP8S1y4mMnVh4qLlvJUGU_FKRx.VdpgaXbLk26biLp0?startTime=1771427118000)
 Passcode: 9A.g&aPs)
 
 This talk presents preliminary findings from the project Favel IA, which was co-designed with the Papo Reto Institute (IPR), a favela media activist and human rights organisation based in Rio de Janeiro. The project analyses a core question developed jointly with IPR: How does the favela use AI as opposed to how AI uses the favela in extractive ways? Drawing from critical and decolonial data and AI studies (Valente and Grohmann, 20024; Goodlad, 2023; Ricaurte, 2019), Favel IA interrogates the politics of empathy as a form of solidarity. It is also attentive to the gendered, raced, classed, and transnational geopolitical dimensions that shape who is permitted to perform empathy and who is positioned as its beneficiary. These dynamics contrast sharply with the everyday invisible forms of political empathy exercised by favela communities, which are rarely recognised or valued.
