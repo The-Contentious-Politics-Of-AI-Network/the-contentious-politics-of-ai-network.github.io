@@ -35,8 +35,8 @@ Our network offers a space for those who want to research, study, and make visib
   </div>
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
-    <a href="{{ site.baseurl }}/news.html">
-      <img src="docs/assets/images/US-guild-strike-wb.jpg" alt="Articles" style="width:100%;">
+    <a href="{{ site.baseurl }}/articles.html">
+      <img src="docs/assets/images/pen-paper.jpg" alt="Articles" style="width:100%;">
     </a>
     <p><strong>Articles and commentary</strong><br> commentary pieces about AI contestation and broader AI critiques <br>
      <a href="{{ site.baseurl }}/articles.html">Read more</a>
