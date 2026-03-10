@@ -38,7 +38,7 @@ Our network offers a space for those who want to research, study, and make visib
     <a href="{{ site.baseurl }}/articles.html">
       <img src="docs/assets/images/pen-paper.jpg" alt="Articles" style="width:100%;">
     </a>
-    <p><strong>Articles and commentary</strong><br> commentary pieces about AI contestation and broader AI critiques <br>
+    <p><strong>Articles and commentary</strong><br> Commentary and articles on contentious politics of AI and related topics <br>
      <a href="{{ site.baseurl }}/articles.html">Read more</a>
     </p>
   </div>
