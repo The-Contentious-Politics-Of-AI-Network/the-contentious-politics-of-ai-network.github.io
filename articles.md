@@ -5,12 +5,9 @@
 
   <div style="flex: 0 0 calc(33.333% - 1.5rem);">
     <a href="{{ site.baseurl }}/tech-war-Iran.html">
-      <img src="docs/assets/images/tehran-fire.jpg" alt="Articles" style="width:100%;">
+      <img src="docs/assets/images/tehran-fire.png" alt="Tech Ecology in the Service of War" style="width:100%;">
     </a>
-    <p><strong>Articles and commentary</strong><br> Tech Ecology in the Service of War
- <br>
-     <a href="{{ site.baseurl }}/tech-war-Iran.html">Read more</a>
-    </p>
+    
   </div>
 
 </div>
