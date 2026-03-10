@@ -1,3 +1,4 @@
+{% include nav.html %}
 
 ## Tech Ecology in the Service of War
 
