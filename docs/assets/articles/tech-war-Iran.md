@@ -3,6 +3,13 @@
 
 ## Tech Ecology in the Service of War
 
+  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
+    <a href="{{ site.baseurl }}/monthly-talks.html">
+      <img src="docs/assets/images/tech-war.jpg" style="width:100%;">
+    </a>
+    
+  </div>
+
 Standing in the coffee queue during a conference on AI and robotics in 2018, a conference attendee with an IDF badge approached me and praised the tutorial we had just given. He said it was several levels better than the other tutorials he had attended. The tutorial was on an algorithm we developed for the autonomous coordination of multiple robots. What we presented could be used for both ground and aerial robots.
 
 That incident gave me many sleepless nights 5 years later. I was frantically searching for robotics companies that have the support of IDF on their websites. I was searching for familiar names and their research on those websites, with the growing horror of wondering whether the AI algorithms I developed might one day contribute to the genocide in Gaza. That was the first time I genuinely wished that I were an incompetent researcher.
