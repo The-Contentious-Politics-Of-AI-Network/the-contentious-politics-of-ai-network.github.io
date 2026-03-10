@@ -1,5 +1,22 @@
 {% include nav.html %}
 
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
+
+  <div style="flex: 0 0 calc(33.333% - 1.5rem);">
+    <a href="{{ site.baseurl }}/tech-war-Iran.html">
+      <img src="docs/assets/images/pen-paper.jpg" alt="Articles" style="width:100%;">
+    </a>
+    <p><strong>Articles and commentary</strong><br> Tech Ecology in the Service of War
+ <br>
+     <a href="{{ site.baseurl }}/tech-war-Iran.html">Read more</a>
+    </p>
+  </div>
+
+</div>
+
+
+
 ## Tech Ecology in the Service of War
 
 Standing in the coffee queue during a conference on AI and robotics in 2018, a conference attendee with an IDF badge approached me and praised the tutorial we had just given. He said it was several levels better than the other tutorials he had attended. The tutorial was on an algorithm we developed for the autonomous coordination of multiple robots. What we presented could be used for both ground and aerial robots.
