@@ -8,7 +8,9 @@
     <a href="{{ site.baseurl }}/articles/tech-war-Iran.html">
       <img src="docs/assets/images/tehran-fire.png" alt="Tech Ecology in the Service of War" style="width:100%;">
     </a>
-    
+     <p>
+      <a href="{{ site.baseurl }}//articles/tech-war-Iran.html">Tech Ecology in the Service of War</a>
+    </p>
   </div>
 
 </div>
