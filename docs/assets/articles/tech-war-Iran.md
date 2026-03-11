@@ -2,7 +2,7 @@
 {% include nav.html %}
 
 ## Tech Ecology in the Service of War
-
+Masoumeh Iran Mansouri
 <img src="/docs/assets/images/tech-war.jpg" style="width:100%;">
 
 Standing in the coffee queue during a conference on AI and robotics in 2018, a conference attendee with an IDF badge approached me and praised the tutorial we had just given. He said it was several levels better than the other tutorials he had attended. The tutorial was on an algorithm we developed for the autonomous coordination of multiple robots. What we presented could be used for both ground and aerial robots.
