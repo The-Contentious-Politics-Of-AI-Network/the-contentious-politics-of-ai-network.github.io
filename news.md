@@ -17,7 +17,7 @@ Since our launch we have begun to produce a running update in newsletter form of
 
 **February/March 2026**
 
-Campaign updates:
+_Campaign updates:_
 
 *April 25, 2026 - Resisting Big Tech Empires - London South Bank University - details [here](https://www.globaljustice.org.uk/event/resisting-big-tech-empires/)
 
