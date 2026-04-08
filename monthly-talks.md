@@ -7,15 +7,6 @@
 ## Upcoming Monthly Talks
 
 
-**25 March, 3pm (GMT)
-Interpretive contests over the future of work amid AI advances: Examples from the Turkish translation industry**
-Speaker: [Azer Kilic](https://www.bilgi.edu.tr/en/academic/staff/azer-kilic/)
-
-Register here: [https://bham-ac-uk.zoom.us/meeting/register/aTi-a165TtyCVFxepHebJg](https://bham-ac-uk.zoom.us/meeting/register/aTi-a165TtyCVFxepHebJg)
-
-This talk examines interpretive contests over the future of work amid advances in artificial intelligence (AI), focusing on professional translators’ imaginaries in the context of machine translation. It argues that individual concerns and expectations surrounding future AI-driven automation reflect competing interpretations of contemporary political-economic and institutional settings. The talk draws on interviews with forty translators from Turkey, a country with the highest perception of technological risks within the OECD, and identifies three major approaches in narratives about the future of work: fears about personal, occupational, and societal impacts of workplace automation underlining the profit-oriented logic of capitalism; hopes regarding personal professional futures emphasizing meritocracy in a competitive market setting; and desires for alternative societal futures including visions of different work regimes. Together, these diverse imaginaries highlight ongoing interpretive contests over the meaning of technological change and the future of work under capitalism.
-
-
 **22 April, 3pm (GMT)
 Degrees of Freedom: On Robotics and Social Justice**
 Speaker: [Tom Williams](https://people.mines.edu/twilliams/)
@@ -24,7 +15,13 @@ Register here: [https://bham-ac-uk.zoom.us/meeting/register/uIq55rs1Qha1U7PhqOd-
 
 In Degrees of Freedom, Tom Williams explores critical questions at the intersection of robotics and social justice. He considers the ways in which roboticists design their robots’ appearance, how robots think and act, how robots perceive people, and the domains into which robots are deployed. The book highlights not only the ways roboticists tend to reinforce white patriarchal power structures but also how roboticists might instead subvert those power structures by applying theories and methods from a diverse range of fields. Drawing on computer science; history and politics; law, criminology, and sociology; feminist, ethnic, and Black studies; literary and media studies; and social, moral, and cognitive psychology, the book connects questions of robot design with larger abolitionist movements by presenting a vision for a more socially just future of robotics.
 
-### Previous talks - 19 November 2025 - AI is on the march. Is the AI safety movement ready?
+### Previous talks  
+
+**25 March, 3pm (GMT)
+Interpretive contests over the future of work amid AI advances: Examples from the Turkish translation industry**
+Speaker: [Azer Kilic](https://www.bilgi.edu.tr/en/academic/staff/azer-kilic/)
+
+This talk examines interpretive contests over the future of work amid advances in artificial intelligence (AI), focusing on professional translators’ imaginaries in the context of machine translation. It argues that individual concerns and expectations surrounding future AI-driven automation reflect competing interpretations of contemporary political-economic and institutional settings. The talk draws on interviews with forty translators from Turkey, a country with the highest perception of technological risks within the OECD, and identifies three major approaches in narratives about the future of work: fears about personal, occupational, and societal impacts of workplace automation underlining the profit-oriented logic of capitalism; hopes regarding personal professional futures emphasizing meritocracy in a competitive market setting; and desires for alternative societal futures including visions of different work regimes. Together, these diverse imaginaries highlight ongoing interpretive contests over the meaning of technological change and the future of work under capitalism.
 
 **18 February, 3pm (GMT)
 Favel IA: AI, Participatory Action Research (PAR), and the Question of Empathy**
@@ -54,6 +51,7 @@ AI is often presented in extremes, either as a revolutionary technology boosting
 
 Acknowledgement of this distinct socio-economic embedding of a hyped technology informs our search for forms of resistance. Contrary to the techno-determinist idea that the spread of AI is inevitable, and based on our recent co-authored book “[The AI Matrix](https://www.agendapub.com/page/detail/the-ai-matrix/?k=9781788218597)”, we present growing efforts to push back against the harmful and extractive uses of such technologies. These include workers challenging algorithmic surveillance and automation efforts, activists exposing the socio-ecological costs hidden in AI value chains, whistleblowers publicising biased systems and opaque business decisions, but also technicians experimenting with alternative, more public-interest-driven and less extractive forms of AI. Together, these emerging critical engagements with mainstream big tech show that AI futures remain contested and ultimately open. Whether current tech developments deepen global inequalities or support fairer and more democratic societies therefore depends less on the technology itself than on the collective decisions we make about the role of AI in our economies and societies.
 
+**19 November 2025 - AI is on the march. Is the AI safety movement ready?**
 **Cathy Rogers, [Social Change Lab](https://www.socialchangelab.org/)
 November 19th 2025, 3pm**
 
