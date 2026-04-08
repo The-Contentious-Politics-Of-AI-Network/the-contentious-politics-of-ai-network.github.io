@@ -7,7 +7,7 @@
 ## Upcoming Monthly Talks
 
 
-**22 April, 3pm (GMT)
+**22 April, 3pm (BST)
 Degrees of Freedom: On Robotics and Social Justice**
 Speaker: [Tom Williams](https://people.mines.edu/twilliams/)
 
