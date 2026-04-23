@@ -6,6 +6,10 @@
 
 ## Upcoming Monthly Talks
 
+next talk tbc
+
+
+### Previous talks  
 
 **22 April, 3pm (BST)
 Degrees of Freedom: On Robotics and Social Justice**
@@ -15,8 +19,6 @@ _For the speaker+slides recording, see_:[here]((https://zoom.us/rec/play/yM4rkww
 Passcode:%20u7&@A@UV
 
 In Degrees of Freedom, Tom Williams explores critical questions at the intersection of robotics and social justice. He considers the ways in which roboticists design their robots’ appearance, how robots think and act, how robots perceive people, and the domains into which robots are deployed. The book highlights not only the ways roboticists tend to reinforce white patriarchal power structures but also how roboticists might instead subvert those power structures by applying theories and methods from a diverse range of fields. Drawing on computer science; history and politics; law, criminology, and sociology; feminist, ethnic, and Black studies; literary and media studies; and social, moral, and cognitive psychology, the book connects questions of robot design with larger abolitionist movements by presenting a vision for a more socially just future of robotics.
-
-### Previous talks  
 
 **25 March, 3pm (GMT)
 Interpretive contests over the future of work amid AI advances: Examples from the Turkish translation industry**
