@@ -14,7 +14,7 @@ next talk tbc
 **22 April, 3pm (BST)
 Degrees of Freedom: On Robotics and Social Justice**
 Speaker: [Tom Williams](https://people.mines.edu/twilliams/)
-{% include youtube.html id="[V6XLBr6QpzQ]" %}
+{% include youtube.html id="V6XLBr6QpzQ" %}
 For the speaker + slides, see [here](https://zoom.us/rec/play/yM4rkwwvFMislcH7oyJfs2qIfLzhmkbZIUW2GL4SCajMYTLTNQM8QH3rq1irkPE3UX2ADV2BZhpkcgvn.aqCciyyWXVgNpFm4)
 Passcode:%20u7&@A@UV
 
