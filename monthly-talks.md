@@ -10,8 +10,9 @@
 **22 April, 3pm (BST)
 Degrees of Freedom: On Robotics and Social Justice**
 Speaker: [Tom Williams](https://people.mines.edu/twilliams/)
-
-Register here: [https://bham-ac-uk.zoom.us/meeting/register/uIq55rs1Qha1U7PhqOd-8Q](https://bham-ac-uk.zoom.us/meeting/register/uIq55rs1Qha1U7PhqOd-8Q)
+{% include youtube.html id="[AjrqdQQfbSE]" %}
+_For the speaker+slides recording, see_:[here]((https://zoom.us/rec/play/yM4rkwwvFMislcH7oyJfs2qIfLzhmkbZIUW2GL4SCajMYTLTNQM8QH3rq1irkPE3UX2ADV2BZhpkcgvn.aqCciyyWXVgNpFm4?autoplay=true))
+Passcode:%20u7&@A@UV
 
 In Degrees of Freedom, Tom Williams explores critical questions at the intersection of robotics and social justice. He considers the ways in which roboticists design their robots’ appearance, how robots think and act, how robots perceive people, and the domains into which robots are deployed. The book highlights not only the ways roboticists tend to reinforce white patriarchal power structures but also how roboticists might instead subvert those power structures by applying theories and methods from a diverse range of fields. Drawing on computer science; history and politics; law, criminology, and sociology; feminist, ethnic, and Black studies; literary and media studies; and social, moral, and cognitive psychology, the book connects questions of robot design with larger abolitionist movements by presenting a vision for a more socially just future of robotics.
 
