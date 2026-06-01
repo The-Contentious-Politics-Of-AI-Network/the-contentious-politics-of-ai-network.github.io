@@ -6,21 +6,24 @@
 
 ## Upcoming Monthly Talks
 
+tbc
+
+
+### Previous talks  
+
 **19 May, 3pm (BST)
 Push and Pushback in Contesting AI: Demands for and Resistance to Accountability**
 
 Speaker: [Yulu Pi](https://nikipi.github.io/)
-
-Register here: [https://bham-ac-uk.zoom.us/meeting/register/lCS6JaEQQP-SVmLahxhWfQ](https://bham-ac-uk.zoom.us/meeting/register/lCS6JaEQQP-SVmLahxhWfQ)
+{% include youtube.html id="48bgq90DtuU" %}
+For the speaker + slides, see [here](https://bham-ac-uk.zoom.us/rec/share/vOSXw-jMVUodq6Ybt4yD8M_Ttv5k9VhpOfpbmNRBi44nNhuZ4GHojhGY8N5SkDgm.2h2Gyp_kxebATqUV?startTime=1779199358000)
+Passcode: 3eFj3H*k
 
 AI systems can fail critically, cause harm, and spark public controversy. In response, affected individuals, advocacy groups, and professional collectives are increasingly contesting these technologies to demand accountability and change. Yet institutions often deploy sophisticated tactics to resist such contestation. 
 This talk maps how these push-and-pull dynamics unfold. I will walk through six common tactics: denying responsibility; denying or downplaying harm; blocking contestation; justifying the algorithm; avoiding scrutiny through opacity; and strategic concession and delay. Understanding these resistance tactics is crucial for advocates and policymakers seeking meaningful AI accountability. The talk offers actionable insights for anticipating institutional pushback and designing more effective contestation strategies.
 
 [Yulu Pi](https://nikipi.github.io/) is a postdoctoral research associate at the Trustworthy Data Science and Security group at the University of Duisburg-Essen. Her research sits at the intersection of technology, society, and governance, examining how people’s behaviours change in relation to digital systems. She draws on HCI methods to inform AI governance frameworks.
 
-
-
-### Previous talks  
 
 **22 April, 3pm (BST)
 Degrees of Freedom: On Robotics and Social Justice**
