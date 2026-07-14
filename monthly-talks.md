@@ -6,7 +6,29 @@
 
 ## Upcoming Monthly Talks
 
-tbc
+**15 October, 3pm (BST) (provisional time/date, to be confirmed)
+The Due Process Deficit: Auditing AI Governance in U.S. Higher Education**
+
+Speaker: [Maria Teleki](https://mariateleki.github.io/)
+
+U.S. universities have met Artificial Intelligence (AI) with policy – revised honor codes, AI use guidelines, and detection
+tools to enforce them – but the procedural infrastructure that would let affected parties understand, contest, and seek redress
+for AI-related decisions has not kept pace. We present ACAI-US79, a benchmark dataset allowing for institutional auditing
+of AI governance across 79 U.S. universities spanning R1, R2, and teaching-focused institutions, and ACAI, the Academic
+AI Capacity Index, an interpretable measure of the public legibility of governance structures that allocate authority and
+accountability. Unlike prior audits focused on pedagogical guidance at elite or R1-only samples, ACAI shifts the analytic
+frame to procedural accountability, evaluating four domains — policy clarity, faculty support, feedback mechanisms, and AI
+detection tool governance — through time-bounded review of institutionally authoritative materials. We find that governance
+capacity is systematically concentrated in rule articulation while mechanisms for participation, feedback, and procedural
+constraint are underdeveloped, and that AI research intensity is weakly correlated with AI governance capacity – i.e., we find
+that technical leadership does not translate into procedural accountability. We further show that LLM-based audits produce
+unstable institutional rankings, demonstrating the continued necessity of human judgment in high-stakes audit contexts.
+We release the dataset, audit instrument, and public website at http://acai-us79.org/ to support transparency, critique, and
+institutional self-reflection, laying empirical groundwork for accountable AI governance in higher education.
+
+The full paper is [here](https://mariateleki.github.io/pdf/FAccT_26_ACAI.pdf).
+
+Maria Teleki is a PhD student in Computer Science at Texas A&M University. More details [here](https://mariateleki.github.io/).
 
 
 ### Previous talks  
